@@ -1,4 +1,5 @@
 public class PowerofTwo {
+    // Test comment
     public boolean isPowerOfTwo(int n) {
         if(n <= 0){ return false; }
         int c = 0;
